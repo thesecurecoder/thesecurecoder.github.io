@@ -1,0 +1,9 @@
+@import "{{ site.theme }}"
+
+header {
+	display: "The Secure Coder"
+}
+
+footer {
+	display: none;
+}
