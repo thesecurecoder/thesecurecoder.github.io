@@ -1,3 +1,4 @@
+# SOLID Principles
 ### Typical problems during project development and maintainence
 * **Code Fragility**: Tendency of the software to break at many places everytime a change is made.
 * **Code Rigidity**: Tendency of software to be difficult to change. A simple change in a place will require a cascade of subsequent changes in dependent modules.
