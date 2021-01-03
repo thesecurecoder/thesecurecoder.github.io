@@ -1,1 +1,1 @@
-### [BLOGS](/blogs) | [PROJECTS](/projects) | [Notes](/notes) | [About](/cv)
+### [BLOGS](/blogs) | [PROJECTS](/projects) | [Coding](/coding) | [Notes](/notes) | [About](/cv)
