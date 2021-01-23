@@ -14,10 +14,10 @@
   * Check if key already exists. If yes, update value and access tracker by removing corresponding cache unit from linked list and adding it to the end. Update KRU unit and MRU unit accordingly.
   * Check if size is exceeding capacity. If yes, remove LRU unit and corresponding cache entry.
   * Add new entry with value to cache. Add new entry to the rear end of the linked list to track it as the MRU unit.
-* Time complexity:
+* **Time complexity:**
   * GET: O(1)
   * PUT: O(1)
-* Space complexity: O(N) [N = capacity]
+* **Space complexity:** O(N) [N = capacity]
 
 ### Enough talk, show me the code
 
