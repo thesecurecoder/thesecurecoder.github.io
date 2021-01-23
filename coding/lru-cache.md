@@ -1,8 +1,8 @@
-### LRU Cache
+## LRU Cache
 
-Problem statement: https://leetcode.com/problems/lru-cache
+[Problem statement](https://leetcode.com/problems/lru-cache).
 
-Brief description of solution:
+### Thought process
 
 * Hashmap to store Cache values.
 * Doubly linked list to track access to cache units. 
@@ -18,6 +18,8 @@ Brief description of solution:
   * GET: O(1)
   * PUT: O(1)
 * Space complexity: O(N) [N = capacity]
+
+### Enough talk, show me the code
 
 ```java
 class LRUCache {
