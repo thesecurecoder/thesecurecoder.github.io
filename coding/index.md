@@ -4,6 +4,6 @@ Coding and DSA practice for interviews.
 
 ### Index
 
-[LRU cache](/lru-cache)
-[Maximum length of common subarray](/maximum-length-of-common-subarray)
-[Merge Intervals](/merge-intervals)
+* [LRU cache](/coding/lru-cache)
+* [Maximum length of common subarray](/coding/maximum-length-of-common-subarray)
+* [Merge Intervals](/coding/merge-intervals)
